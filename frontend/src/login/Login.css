@@ -1,0 +1,25 @@
+.log-page {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 400px;
+    height: auto;
+}
+
+input {
+    width: 25%;
+    padding: 10px 5px 10px 5px;
+    margin: 5px 0px 5px 0px;
+}
+
+.log-bottom {
+    display: flex;
+    justify-content: space-between;
+    width: calc(25% + 10px);
+    margin-top: 5px;
+}
+
+.error {
+    color: red;
+}

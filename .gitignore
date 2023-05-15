@@ -1,0 +1,6 @@
+.vscode/*
+venv/
+backend/backend/__pycache__/
+backend/cooking/__pycache__/
+backend/cooking/migrations/__pycache__/
+
